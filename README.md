@@ -57,8 +57,6 @@
 </p>
 
 <div align="left">
-  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=awantha2003&show_icons=true&locale=en&layout=compact&hide_border=true&theme=transparent" alt="awantha2003" /></p>
-
   <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=awantha2003&show_icons=true&locale=en&hide_border=true&theme=transparent" alt="awantha2003" /></p>
 
   <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=awantha2003&hide_border=true&theme=transparent" alt="awantha2003" /></p>
