@@ -1,317 +1,434 @@
+# 🌌 AWANTHA IMESH - Digital Universe Architect
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=200&section=header&text=AWANTHA%20IMESH&fontSize=50&fontColor=fff&animation=blinking&stroke=fff&strokeWidth=2"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=AWANTHA%20IMESH&fontSize=80&fontColor=fff&animation=fadeIn&stroke=00d4ff&strokeWidth=3&desc=Quantum%20Code%20Alchemist%20%7C%20Reality%20Hacker&descAlign=50&descAlignY=75"/>
 </div>
 
-<!-- Futuristic Terminal Header -->
+<!-- Holographic Terminal Animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2000&pause=500&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=120&lines=👨‍💻+Creative+Full-Stack+Developer;⚡+Java+Expert+%7C+Problem+Solver;🦋+Mobile+App+Developer+%7C+Flutter+Specialist;🌐+Frontend+Architect+%7C+JavaScript+Ninja"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=24&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=1200&height=140&lines=🚀+FULL-STACK+REALITY+ENGINEER;⚡+JAVA+DIMENSIONAL+ARCHITECT;🦋+FLUTTER+UNIVERSE+SCULPTOR;🌐+JAVASCRIPT+QUANTUM+MANIPULATOR;💎+TURNING+CAFFEINE+INTO+CODE+MAGIC"/>
 </div>
 
-<br>
-
-<!-- Glassmorphism Profile Card -->
+<!-- Cyberpunk Stats Matrix -->
 <div align="center">
-  <img width="100%" src="https://svg-banners.vercel.app/api?type=glitch&text1=SOFTWARE%20ALCHEMIST&text2=Transmuting%20Ideas%20Into%20Digital%20Gold&width=800&height=150"/>
+  <img width="100%" src="https://svg-banners.vercel.app/api?type=luminance&text1=NEURAL%20NETWORK&text2=CONSCIOUSNESS%20LEVEL:%20MAXIMUM&width=1000&height=200"/>
 </div>
 
-<!-- Animated Stats Dashboard -->
+---
+
+## 🎮 **SYSTEM STATUS: FULLY OPERATIONAL**
+
 <div align="center">
-  <h2>⚡ PERFORMANCE METRICS</h2>
-  
   <table>
     <tr>
-      <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/500+-Problems%20Solved-6366F1?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0f0f23"/>
-        <br><sub>🧩 <b>Coding Challenges</b></sub>
+      <td align="center" width="20%">
+        <img src="https://img.shields.io/badge/1337+-Bugs%20Obliterated-FF6B6B?style=for-the-badge&logo=target&logoColor=white&labelColor=1a1a2e"/>
+        <br><sub>🎯 <b>TERMINATOR MODE</b></sub>
+        <br><sub>Error.exe has stopped working</sub>
       </td>
-      <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/50+-Projects%20Built-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=0f0f23"/>
-        <br><sub>🚀 <b>Portfolio Projects</b></sub>
+      <td align="center" width="20%">
+        <img src="https://img.shields.io/badge/∞-Ideas%20Per%20Second-4ECDC4?style=for-the-badge&logo=brain&logoColor=white&labelColor=1a1a2e"/>
+        <br><sub>🧠 <b>CREATIVITY ENGINE</b></sub>
+        <br><sub>Overclocked imagination</sub>
       </td>
-      <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/1000+-Coffee%20Cups-F59E0B?style=for-the-badge&logo=coffeescript&logoColor=white&labelColor=0f0f23"/>
-        <br><sub>☕ <b>Fuel Consumed</b></sub>
+      <td align="center" width="20%">
+        <img src="https://img.shields.io/badge/9999+-Coffee%20Molecules-D4A574?style=for-the-badge&logo=coffee&logoColor=white&labelColor=1a1a2e"/>
+        <br><sub>☕ <b>FUEL INJECTOR</b></sub>
+        <br><sub>Liquid motivation system</sub>
       </td>
-      <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/∞-Curiosity%20Level-06D6A0?style=for-the-badge&logo=atom&logoColor=white&labelColor=0f0f23"/>
-        <br><sub>🔮 <b>Learning Mode</b></sub>
+      <td align="center" width="20%">
+        <img src="https://img.shields.io/badge/24%2F7-Learning%20Mode-A8E6CF?style=for-the-badge&logo=rocket&logoColor=white&labelColor=1a1a2e"/>
+        <br><sub>🚀 <b>EVOLUTION ENGINE</b></sub>
+        <br><sub>Never stops upgrading</sub>
+      </td>
+      <td align="center" width="20%">
+        <img src="https://img.shields.io/badge/100%25-Curiosity%20Drive-FFB6C1?style=for-the-badge&logo=question&logoColor=white&labelColor=1a1a2e"/>
+        <br><sub>🔮 <b>WONDER PROTOCOL</b></sub>
+        <br><sub>Why not? Let's find out!</sub>
       </td>
     </tr>
   </table>
 </div>
 
-<br>
+---
 
-<!-- 3D Tech Arsenal -->
+## ⚡ **QUANTUM TECH ARSENAL**
+
 <div align="center">
-  <h2>🚀 TECH ARSENAL</h2>
   
-  <table>
-    <tr>
-      <td align="center" width="12.5%">
-        <img src="https://skillicons.dev/icons?i=java&theme=dark" width="60"/>
-        <br><sub><b>Java ☕</b></sub>
-        <br><sub>⭐⭐⭐⭐⭐</sub>
-      </td>
-      <td align="center" width="12.5%">
-        <img src="https://skillicons.dev/icons?i=js&theme=dark" width="60"/>
-        <br><sub><b>JavaScript 🌐</b></sub>
-        <br><sub>⭐⭐⭐⭐⭐</sub>
-      </td>
-      <td align="center" width="12.5%">
-        <img src="https://skillicons.dev/icons?i=react&theme=dark" width="60"/>
-        <br><sub><b>React ⚛️</b></sub>
-        <br><sub>⭐⭐⭐⭐</sub>
-      </td>
-      <td align="center" width="12.5%">
-        <img src="https://skillicons.dev/icons?i=flutter&theme=dark" width="60"/>
-        <br><sub><b>Flutter 🦋</b></sub>
-        <br><sub>⭐⭐⭐⭐</sub>
-      </td>
-      <td align="center" width="12.5%">
-        <img src="https://skillicons.dev/icons?i=c&theme=dark" width="60"/>
-        <br><sub><b>C 🔧</b></sub>
-        <br><sub>⭐⭐⭐⭐</sub>
-      </td>
-      <td align="center" width="12.5%">
-        <img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="60"/>
-        <br><sub><b>C++ ⚙️</b></sub>
-        <br><sub>⭐⭐⭐⭐</sub>
-      </td>
-      <td align="center" width="12.5%">
-        <img src="https://skillicons.dev/icons?i=php&theme=dark" width="60"/>
-        <br><sub><b>PHP 🐘</b></sub>
-        <br><sub>⭐⭐⭐</sub>
-      </td>
-      <td align="center" width="12.5%">
-        <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="60"/>
-        <br><sub><b>MySQL 🗄️</b></sub>
-        <br><sub>⭐⭐⭐⭐</sub>
-      </td>
-    </tr>
-  </table>
+### 🔥 **PRIMARY WEAPONS**
   
-  <br>
-  
-  <!-- Additional Tech Skills -->
-  <img src="https://skillicons.dev/icons?i=html,css,git,github,vscode,firebase,nodejs,express,mongodb,figma&theme=dark" />
+<table>
+  <tr>
+    <td align="center" width="11.11%">
+      <img src="https://skillicons.dev/icons?i=java&theme=dark" width="70"/>
+      <br><sub><b>Java ☕</b></sub>
+      <br><sub>🌟🌟🌟🌟🌟</sub>
+      <br><sub><i>Master Level</i></sub>
+    </td>
+    <td align="center" width="11.11%">
+      <img src="https://skillicons.dev/icons?i=js&theme=dark" width="70"/>
+      <br><sub><b>JavaScript 🌐</b></sub>
+      <br><sub>🌟🌟🌟🌟🌟</sub>
+      <br><sub><i>Wizard Status</i></sub>
+    </td>
+    <td align="center" width="11.11%">
+      <img src="https://skillicons.dev/icons?i=react&theme=dark" width="70"/>
+      <br><sub><b>React ⚛️</b></sub>
+      <br><sub>🌟🌟🌟🌟</sub>
+      <br><sub><i>Component God</i></sub>
+    </td>
+    <td align="center" width="11.11%">
+      <img src="https://skillicons.dev/icons?i=flutter&theme=dark" width="70"/>
+      <br><sub><b>Flutter 🦋</b></sub>
+      <br><sub>🌟🌟🌟🌟</sub>
+      <br><sub><i>UI Sorcerer</i></sub>
+    </td>
+    <td align="center" width="11.11%">
+      <img src="https://skillicons.dev/icons?i=c&theme=dark" width="70"/>
+      <br><sub><b>C 🔧</b></sub>
+      <br><sub>🌟🌟🌟🌟</sub>
+      <br><sub><i>Memory Ninja</i></sub>
+    </td>
+    <td align="center" width="11.11%">
+      <img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="70"/>
+      <br><sub><b>C++ ⚙️</b></sub>
+      <br><sub>🌟🌟🌟🌟</sub>
+      <br><sub><i>Performance Beast</i></sub>
+    </td>
+    <td align="center" width="11.11%">
+      <img src="https://skillicons.dev/icons?i=php&theme=dark" width="70"/>
+      <br><sub><b>PHP 🐘</b></sub>
+      <br><sub>🌟🌟🌟</sub>
+      <br><sub><i>Backend Tamer</i></sub>
+    </td>
+    <td align="center" width="11.11%">
+      <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="70"/>
+      <br><sub><b>MySQL 🗄️</b></sub>
+      <br><sub>🌟🌟🌟🌟</sub>
+      <br><sub><i>Data Whisperer</i></sub>
+    </td>
+    <td align="center" width="11.11%">
+      <img src="https://skillicons.dev/icons?i=python&theme=dark" width="70"/>
+      <br><sub><b>Python 🐍</b></sub>
+      <br><sub>🌟🌟🌟</sub>
+      <br><sub><i>AI Charmer</i></sub>
+    </td>
+  </tr>
+</table>
+
+### 🛠️ **SECONDARY ARSENAL**
+<img src="https://skillicons.dev/icons?i=html,css,git,github,vscode,firebase,nodejs,express,mongodb,figma,docker,kubernetes&theme=dark" />
+
+### 🎯 **SPECIALTY ABILITIES**
+```javascript
+const awanthaSkills = {
+    architecture: ["Microservices", "Clean Architecture", "Design Patterns"],
+    frontend: ["Responsive Design", "PWA", "Animation", "State Management"],
+    backend: ["RESTful APIs", "GraphQL", "WebSockets", "Caching"],
+    mobile: ["Cross-platform", "Native Performance", "Offline-first"],
+    devops: ["CI/CD", "Containerization", "Cloud Deployment"],
+    leadership: ["Team Building", "Code Review", "Mentoring"],
+    
+    superPowers: [
+        "☕ Converting coffee to code at 99.9% efficiency",
+        "🐛 Debugging with supernatural intuition", 
+        "⚡ Writing self-documenting code that speaks",
+        "🎨 Making backends as beautiful as frontends",
+        "🚀 Shipping features at light speed"
+    ]
+};
+```
+
 </div>
 
-<br>
+---
 
-<!-- GitHub Stats with Glassmorphism Effect -->
+## 📊 **NEURAL ACTIVITY MATRIX**
+
 <div align="center">
-  <h2>📊 NEURAL ACTIVITY DASHBOARD</h2>
+  <h3>🧠 Brain Wave Patterns</h3>
   
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=awantha2003&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0,0f0f23,1a1a3e&title_color=6366f1&icon_color=8b5cf6&text_color=f8fafc&ring_color=f59e0b&fire_color=06d6a0"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=awantha2003&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0,0f0f23,1a1a3e&title_color=6366f1&icon_color=8b5cf6&text_color=f8fafc&ring_color=f59e0b&fire_color=06d6a0" height="180"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=awantha2003&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117,1a1a2e,16213e&title_color=00d4ff&icon_color=ff6b6b&text_color=ffffff&ring_color=a8e6cf&fire_color=ff9ff3"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=awantha2003&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117,1a1a2e,16213e&title_color=00d4ff&icon_color=ff6b6b&text_color=ffffff&ring_color=a8e6cf&fire_color=ff9ff3" height="200"/>
   </picture>
   
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=awantha2003&theme=tokyonight&hide_border=true&background=0f0f23,1a1a3e&stroke=6366f1&ring=8b5cf6&fire=f59e0b&currStreakLabel=f8fafc&sideLabels=6366f1&currStreakNum=8b5cf6&sideNums=f8fafc"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=awantha2003&theme=tokyonight&hide_border=true&background=0f0f23,1a1a3e&stroke=6366f1&ring=8b5cf6&fire=f59e0b&currStreakLabel=f8fafc&sideLabels=6366f1&currStreakNum=8b5cf6&sideNums=f8fafc" height="180"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=awantha2003&theme=radical&hide_border=true&background=0D1117,1a1a2e,16213e&stroke=00d4ff&ring=ff6b6b&fire=a8e6cf&currStreakLabel=ffffff&sideLabels=00d4ff&currStreakNum=ff9ff3&sideNums=ffffff"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=awantha2003&theme=radical&hide_border=true&background=0D1117,1a1a2e,16213e&stroke=00d4ff&ring=ff6b6b&fire=a8e6cf&currStreakLabel=ffffff&sideLabels=00d4ff&currStreakNum=ff9ff3&sideNums=ffffff" height="200"/>
   </picture>
 </div>
 
 <div align="center">
+  <h3>🎨 Code DNA Analysis</h3>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=awantha2003&layout=donut&theme=tokyonight&hide_border=true&bg_color=0,0f0f23,1a1a3e&title_color=6366f1&text_color=f8fafc"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=awantha2003&layout=donut&theme=tokyonight&hide_border=true&bg_color=0,0f0f23,1a1a3e&title_color=6366f1&text_color=f8fafc" height="300"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=awantha2003&layout=donut-vertical&theme=radical&hide_border=true&bg_color=0D1117,1a1a2e,16213e&title_color=00d4ff&text_color=ffffff"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=awantha2003&layout=donut-vertical&theme=radical&hide_border=true&bg_color=0D1117,1a1a2e,16213e&title_color=00d4ff&text_color=ffffff" height="400"/>
   </picture>
 </div>
 
-<br>
+---
 
-<!-- Featured Projects Showcase -->
+## 🏆 **LEGENDARY ACHIEVEMENTS VAULT**
+
 <div align="center">
-  <h2>💡 FEATURED PROJECTS</h2>
-  
+  <img src="https://github-profile-trophy.vercel.app/?username=awantha2003&theme=radical&no-frame=true&no-bg=true&margin-w=15&row=2&column=7&title=Stars,Followers,Commits,PullRequest,Issues,Repositories,Experience" width="100%"/>
+</div>
+
+---
+
+## 🎯 **FEATURED DIGITAL MASTERPIECES**
+
+<div align="center">
   <table>
     <tr>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=awantha2003&repo=e-commerce-platform&theme=tokyonight&hide_border=true&bg_color=0,0f0f23,1a1a3e&title_color=6366f1&text_color=f8fafc&icon_color=8b5cf6" />
-        <br>
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white"/>
+        <h4>🛒 E-Commerce Platform</h4>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=awantha2003&repo=e-commerce-platform&theme=radical&hide_border=true&bg_color=0D1117,1a1a2e&title_color=00d4ff&text_color=ffffff&icon_color=ff6b6b" />
+        <br><br>
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-        <img src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+        <br><sub><i>🚀 Full-stack commerce solution with AI recommendations</i></sub>
       </td>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=awantha2003&repo=flutter-task-manager&theme=tokyonight&hide_border=true&bg_color=0,0f0f23,1a1a3e&title_color=6366f1&text_color=f8fafc&icon_color=8b5cf6" />
-        <br>
+        <h4>📱 Flutter Task Manager</h4>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=awantha2003&repo=flutter-task-manager&theme=radical&hide_border=true&bg_color=0D1117,1a1a2e&title_color=00d4ff&text_color=ffffff&icon_color=ff6b6b" />
+        <br><br>
         <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=Firebase&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
         <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
+        <br><sub><i>🦋 Beautiful productivity app with offline-first architecture</i></sub>
       </td>
     </tr>
   </table>
 </div>
 
-<br>
+---
 
-<!-- Activity Graph -->
+## ⚡ **NEURAL ACTIVITY WAVELENGTHS**
+
 <div align="center">
-  <h2>⚡ CODING FREQUENCY WAVELENGTHS</h2>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=awantha2003&custom_title=Neural%20Activity%20Matrix&bg_color=0f0f23&color=6366f1&line=8b5cf6&point=f59e0b&area=true&hide_border=true&area_color=1a1a3e" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=awantha2003&custom_title=🧠%20Synaptic%20Firing%20Patterns&bg_color=0d1117&color=00d4ff&line=ff6b6b&point=a8e6cf&area=true&hide_border=true&area_color=1a1a2e" width="100%"/>
 </div>
 
-<br>
+---
 
-<!-- Achievement Trophies -->
+## 🌐 **QUANTUM COMMUNICATION PORTALS**
+
 <div align="center">
-  <h2>🏆 DIGITAL ACHIEVEMENTS VAULT</h2>
-  <img src="https://github-profile-trophy.vercel.app/?username=awantha2003&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=2&column=6" width="100%"/>
-</div>
-
-<br>
-
-<!-- Communication Portals -->
-<div align="center">
-  <h2>🌐 CONNECT WITH ME</h2>
-  
   <table>
     <tr>
       <td align="center" width="25%">
         <a href="https://linkedin.com/in/awantha-imesh-473077220/">
-          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f0f23"/>
+          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e"/>
         </a>
-        <br><sub>💼 <b>Professional Network</b></sub>
+        <br><sub>💼 <b>Professional Nexus</b></sub>
+        <br><sub><i>Where business meets brilliance</i></sub>
       </td>
       <td align="center" width="25%">
         <a href="https://www.youtube.com/channel/UCQ39P9TV7mr745YW3vLNmXg">
-          <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0f0f23"/>
+          <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=1a1a2e"/>
         </a>
-        <br><sub>📺 <b>Tech Content</b></sub>
+        <br><sub>📺 <b>Knowledge Broadcasting</b></sub>
+        <br><sub><i>Teaching the world to code</i></sub>
       </td>
       <td align="center" width="25%">
         <a href="mailto:awanthaimesh123@gmail.com">
-          <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f0f23"/>
+          <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e"/>
         </a>
-        <br><sub>📧 <b>Direct Contact</b></sub>
+        <br><sub>📧 <b>Direct Neural Link</b></sub>
+        <br><sub><i>Instant thought transmission</i></sub>
       </td>
       <td align="center" width="25%">
         <a href="https://opencourseblog.blogspot.com/">
-          <img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white&labelColor=0f0f23"/>
+          <img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white&labelColor=1a1a2e"/>
         </a>
-        <br><sub>📝 <b>Tech Articles</b></sub>
+        <br><sub>📝 <b>Wisdom Archives</b></sub>
+        <br><sub><i>Deep-dive tech insights</i></sub>
       </td>
     </tr>
   </table>
 </div>
 
-<br>
+---
 
-<!-- Mission Control Expandable Section -->
+## 🎮 **MISSION CONTROL CENTER**
+
 <details>
-<summary><h3>🎮 MISSION CONTROL CENTER [CLICK TO EXPAND]</h3></summary>
+<summary><h3>🚀 EXPAND OPERATIONAL DASHBOARD</h3></summary>
 
 ```javascript
-class AwanthaOS {
+class AwanthaOS_v4 {
     constructor() {
-        this.version = "3.1.4";
-        this.mode = "CREATIVE_DESTROYER";
-        this.caffeine_level = "MAXIMUM";
-        this.inspiration = "∞";
+        this.version = "4.2.0-QUANTUM";
+        this.mode = "REALITY_ARCHITECT";
+        this.caffeine_level = "TRANSCENDENT"; 
+        this.inspiration = "♾️";
+        this.debug_mode = false;
+        this.dream_big_mode = true;
     }
 
-    getCurrentMissions() {
+    async getCurrentMissions() {
         return {
-            🎯 primary_mission: {
-                name: "Java Universe Domination",
-                progress: "85%",
+            🎯 primary_quest: {
+                name: "Java Multiverse Domination",
+                progress: "92%",
                 estimated_completion: "2024 Q4",
-                difficulty: "LEGENDARY"
+                difficulty: "MYTHICAL",
+                reward: "Universal Recognition"
             },
-            🚀 secondary_mission: {
-                name: "Open Source Contribution Matrix",
-                target: "100+ repos",
-                current: 25,
-                impact: "GLOBAL"
+            
+            🌟 innovation_quest: {
+                name: "Sri Lankan Tech Renaissance",
+                scope: "National Impact",
+                status: "REVOLUTIONIZING",
+                collaborators: "BUILDING_ARMY",
+                impact_level: "TRANSFORMATIONAL"
             },
-            🎨 creative_mission: {
-                name: "Digital Architecture Revolution",
-                scope: "Sri Lankan Tech Scene",
-                status: "IN_PROGRESS",
-                collaborators: "SEEKING"
+            
+            🚀 growth_quest: {
+                name: "Open Source Galaxy Expansion", 
+                target: "500+ stellar contributions",
+                current: 127,
+                velocity: "ACCELERATING",
+                next_milestone: "Contributor Constellation"
+            },
+            
+            🎨 creative_quest: {
+                name: "Digital Experience Alchemy",
+                description: "Transmuting ideas into digital gold",
+                status: "CONTINUOUS_CREATION",
+                magic_level: "MAXIMUM"
             }
         };
     }
 
-    getPersonalityCore() {
-        return [
-            "🧠 Problem Solver Extraordinaire",
-            "⚡ Performance Optimization Ninja", 
-            "🎨 Creative Code Sculptor",
-            "🌱 Continuous Learning Machine",
-            "🤝 Team Synergy Catalyst",
-            "💡 Innovation Catalyst"
-        ];
+    getPersonalityMatrix() {
+        return {
+            core_traits: [
+                "🧠 Problem-Solving Virtuoso",
+                "⚡ Performance Optimization Samurai", 
+                "🎨 User Experience Architect",
+                "🌱 Perpetual Learning Machine",
+                "🤝 Team Synergy Catalyst",
+                "💡 Innovation Conductor",
+                "🔮 Future-Tech Visionary",
+                "☕ Coffee-to-Code Transformer"
+            ],
+            
+            coding_philosophy: [
+                "Code should read like poetry",
+                "Premature optimization is evil, but ignorance is worse",
+                "Test-driven development saves souls",
+                "Clean code is a love letter to future self",
+                "Documentation is a gift to humanity"
+            ],
+            
+            life_motto: "Dream in algorithms, build in reality! 🌟"
+        };
     }
 
-    generateDailyMotivation() {
-        const quotes = [
-            "Code is poetry written in logic! 🎭",
-            "Every bug is a puzzle waiting to be solved! 🧩", 
-            "Coffee in, awesome code out! ☕➡️💻",
-            "Dream in code, build in reality! 🌟"
+    generateQuantumWisdom() {
+        const wisdom_crystals = [
+            "🌟 Every bug is just a feature wearing a disguise!",
+            "⚡ Code without passion is just syntax soup!",
+            "🎯 The best debugger is a good night's sleep!",
+            "🚀 If it works on my machine, it works in production... right?",
+            "☕ Coffee: The fuel that powers the digital revolution!",
+            "🧠 Think twice, code once, refactor forever!",
+            "🎨 Beautiful code is art that also happens to compute!"
         ];
-        return quotes[Math.floor(Math.random() * quotes.length)];
+        
+        return wisdom_crystals[Math.floor(Math.random() * wisdom_crystals.length)];
+    }
+
+    getSystemStatus() {
+        return {
+            creativity_engine: "🔥 OVERCLOCKED",
+            problem_solving: "🎯 LASER-FOCUSED", 
+            learning_mode: "📚 ALWAYS_ON",
+            collaboration: "🤝 MAXIMUM_SYNC",
+            coffee_levels: "☕ OPTIMAL",
+            fun_factor: "🎉 THROUGH_THE_ROOF"
+        };
     }
 }
 
-const developer = new AwanthaOS();
-console.log("🚀 System initialized successfully!");
-console.log("💭 Today's motivation:", developer.generateDailyMotivation());
+// Initialize the Awantha Operating System
+const developer = new AwanthaOS_v4();
+
+console.log("🚀 QUANTUM CONSCIOUSNESS ACTIVATED!");
+console.log("💫 Reality distortion field: ENGAGED");
+console.log("🧠 Neural networks: FULLY_SYNCHRONIZED");
+console.log("⚡ Today's quantum wisdom:", developer.generateQuantumWisdom());
+
+// Start the magic
+developer.startCodingReality();
 ```
+
+### 🎯 **CURRENT POWER LEVEL**
+```
+████████████████████████████████████████ 100% MAXIMUM OVERDRIVE
+```
+
+### 🎪 **FUN FACTS ABOUT THIS DIGITAL WIZARD**
+- 🎮 Can solve Rubik's cube while debugging code
+- 🎵 Codes better when listening to epic movie soundtracks  
+- 🍕 Pizza is the official debugging food
+- 🌙 Best ideas come at 2 AM (classic developer syndrome)
+- 🐱 Has more GitHub repos than most people have photos
+- ☕ Measured coffee intake in liters, not cups
+- 🎯 Can spot a missing semicolon from across the room
 
 </details>
 
-<br>
+---
 
-<!-- Animated Snake -->
+## 🐍 **THE LEGENDARY CODE SERPENT**
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/awantha2003/awantha2003/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/awantha2003/awantha2003/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/awantha2003/awantha2003/output/github-contribution-grid-snake.svg">
+    <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/awantha2003/awantha2003/output/github-contribution-grid-snake.svg">
   </picture>
+  
+  <sub><i>🐍 The mystical contribution serpent devouring the green squares of productivity</i></sub>
 </div>
 
-<br>
+---
 
-<!-- System Metrics -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=awantha2003&label=NEURAL%20CONNECTIONS&color=6366f1&style=for-the-badge&labelColor=0f0f23"/>
-  <img src="https://img.shields.io/github/followers/awantha2003?label=NETWORK%20NODES&style=for-the-badge&color=8b5cf6&labelColor=0f0f23"/>
-  <img src="https://img.shields.io/badge/STATUS-FULLY%20OPERATIONAL-06d6a0?style=for-the-badge&labelColor=0f0f23"/>
-</div>
-
-<br>
-
-<!-- Inspirational Footer -->
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20invent%20it&author=Alan%20Kay"/>
-</div>
+## 📈 **QUANTUM METRICS & SYSTEM STATUS**
 
 <div align="center">
-  <h3>✨ <em>Crafting digital experiences with passion and precision</em> ✨</h3>
-  <p>☕ Currently brewing the next big thing in software...</p>
-  <p>🚀 Want to join the adventure? Let's build something extraordinary together!</p>
+  <img src="https://komarev.com/ghpvc/?username=awantha2003&label=REALITY%20DISTORTIONS&color=00d4ff&style=for-the-badge&labelColor=1a1a2e"/>
+  <img src="https://img.shields.io/github/followers/awantha2003?label=NEURAL%20NETWORK%20NODES&style=for-the-badge&color=ff6b6b&labelColor=1a1a2e"/>
+  <img src="https://img.shields.io/badge/STATUS-TRANSCENDED%20MORTAL%20LIMITS-a8e6cf?style=for-the-badge&labelColor=1a1a2e"/>
+  <img src="https://img.shields.io/badge/POWER%20LEVEL-OVER%209000-ff9ff3?style=for-the-badge&labelColor=1a1a2e"/>
 </div>
 
-<!-- Footer Wave -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=120&section=footer&animation=twinkling"/>
-</div>
+---
 
-<!-- Hidden Easter Egg -->
-<!-- 
-🎮 KONAMI CODE ACTIVATED! 
-You found the secret developer zone! 
-If you're reading this, you're probably as curious as I am about how things work.
-Let's connect and build something amazing together! 
--->
+## 💫 **INSPIRATIONAL QUANTUM FIELD**
 
 <div align="center">
-  <sub>🎨 <i>Crafted with code, creativity, and excessive amounts of coffee</i> ☕</sub>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=The%20future%20belongs%20to%20those%20who%20believe%20in%20the%20beauty%20of%20their%20dreams&author=Eleanor%20Roosevelt&border=true"/>
 </div>
+
+<div align="center">
+  <h2>✨ <em>Architecting tomorrow's digital experiences, one line of code at a time</em> ✨</h2>
+  
+  <p>🚀 <strong>Currently brewing:</strong> The next quantum leap in software engineering</p>
+  <p>💡 <strong>Philosophy:</strong> Code is the language of the future, and I'm fluent</p>
+  <p>🌟 <strong>Mission:</strong> Making the impossible inevitable through elegant code</p>
+  
+  <h3>🤝 Ready to build something extraordinary together?</h3>
+  <p><em>Let's turn caffeine into code and dreams into digital reality!</em></p>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=footer&animation=twinkling&fontColor=fff&fontSize=16&text=Thanks%20for%20visiting%20my%20digital%20universe!&desc=May%20your%20code%20compile%
