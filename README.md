@@ -6,7 +6,7 @@
 
 <!-- Holographic Terminal Animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=24&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=1200&height=140&lines=🚀+FULL-STACK+REALITY+ENGINEER;⚡+JAVA+DIMENSIONAL+ARCHITECT;🦋+FLUTTER+UNIVERSE+SCULPTOR;🌐+JAVASCRIPT+QUANTUM+MANIPULATOR;💎+TURNING+CAFFEINE+INTO+CODE+MAGIC"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=24&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=1200&height=160&lines=🚀+SOFTWARE+ENGINEER+%7C+SYSTEM+ARCHITECT;💻+UI/UX+ENGINEER+%7C+EXPERIENCE+DESIGNER;⚡+JAVA+DIMENSIONAL+ARCHITECT;🦋+FLUTTER+UNIVERSE+SCULPTOR;🌐+JAVASCRIPT+QUANTUM+MANIPULATOR;💎+TURNING+CAFFEINE+INTO+CODE+MAGIC"/>
 </div>
 
 <!-- Cyberpunk Stats Matrix -->
@@ -118,24 +118,44 @@
 </table>
 
 ### 🛠️ **SECONDARY ARSENAL**
-<img src="https://skillicons.dev/icons?i=html,css,git,github,vscode,firebase,nodejs,express,mongodb,figma,docker,kubernetes&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,git,github,vscode,firebase,nodejs,express,mongodb,figma,docker,kubernetes,photoshop,illustrator&theme=dark" />
+
+### 🎨 **UI/UX DESIGN TOOLKIT**
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6"/>
+<img src="https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black"/>
+<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"/>
+<img src="https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue"/>
+<img src="https://img.shields.io/badge/InVision-FF3366?style=for-the-badge&logo=InVision&logoColor=white"/>
+
+### 🏗️ **SOFTWARE ENGINEERING STACK**
+<img src="https://img.shields.io/badge/Microservices-FF6B6B?style=for-the-badge&logo=microgenetics&logoColor=white"/>
+<img src="https://img.shields.io/badge/Clean%20Architecture-4ECDC4?style=for-the-badge&logo=architecture&logoColor=white"/>
+<img src="https://img.shields.io/badge/Design%20Patterns-45B7D1?style=for-the-badge&logo=designpatterns&logoColor=white"/>
+<img src="https://img.shields.io/badge/SOLID%20Principles-96CEB4?style=for-the-badge&logo=solid&logoColor=white"/>
+<img src="https://img.shields.io/badge/Agile/Scrum-FFEAA7?style=for-the-badge&logo=agile&logoColor=black"/>
+<img src="https://img.shields.io/badge/TDD-DDA0DD?style=for-the-badge&logo=testing&logoColor=white"/>
 
 ### 🎯 **SPECIALTY ABILITIES**
 ```javascript
 const awanthaSkills = {
-    architecture: ["Microservices", "Clean Architecture", "Design Patterns"],
-    frontend: ["Responsive Design", "PWA", "Animation", "State Management"],
-    backend: ["RESTful APIs", "GraphQL", "WebSockets", "Caching"],
-    mobile: ["Cross-platform", "Native Performance", "Offline-first"],
-    devops: ["CI/CD", "Containerization", "Cloud Deployment"],
-    leadership: ["Team Building", "Code Review", "Mentoring"],
+    software_engineering: ["System Design", "Software Architecture", "SDLC", "Agile/Scrum"],
+    ui_ux_design: ["User Research", "Wireframing", "Prototyping", "Design Systems", "Usability Testing"],
+    architecture: ["Microservices", "Clean Architecture", "Design Patterns", "Scalable Systems"],
+    frontend: ["Responsive Design", "PWA", "Animation", "State Management", "User Experience"],
+    backend: ["RESTful APIs", "GraphQL", "WebSockets", "Caching", "Database Design"],
+    mobile: ["Cross-platform", "Native Performance", "Offline-first", "Mobile UX"],
+    devops: ["CI/CD", "Containerization", "Cloud Deployment", "Infrastructure"],
+    leadership: ["Team Building", "Code Review", "Mentoring", "Project Management"],
     
     superPowers: [
         "☕ Converting coffee to code at 99.9% efficiency",
         "🐛 Debugging with supernatural intuition", 
         "⚡ Writing self-documenting code that speaks",
         "🎨 Making backends as beautiful as frontends",
-        "🚀 Shipping features at light speed"
+        "🚀 Shipping features at light speed",
+        "🎯 Turning user pain points into delightful experiences",
+        "💡 Bridging the gap between design and development"
     ]
 };
 ```
@@ -281,11 +301,19 @@ class AwanthaOS_v4 {
             },
             
             🌟 innovation_quest: {
-                name: "Sri Lankan Tech Renaissance",
-                scope: "National Impact",
-                status: "REVOLUTIONIZING",
-                collaborators: "BUILDING_ARMY",
-                impact_level: "TRANSFORMATIONAL"
+                name: "Software Engineering Excellence",
+                scope: "Enterprise-Grade Solutions",
+                status: "ARCHITECTING_FUTURE",
+                focus: "Scalable Systems & Clean Code",
+                impact_level: "INDUSTRY_STANDARD"
+            },
+            
+            🎨 design_quest: {
+                name: "UI/UX Revolution Initiative", 
+                description: "Crafting intuitive digital experiences",
+                methodology: "Human-Centered Design",
+                status: "CONTINUOUSLY_INNOVATING",
+                magic_level: "USER_DELIGHT_MAXIMIZED"
             },
             
             🚀 growth_quest: {
@@ -311,11 +339,20 @@ class AwanthaOS_v4 {
                 "🧠 Problem-Solving Virtuoso",
                 "⚡ Performance Optimization Samurai", 
                 "🎨 User Experience Architect",
+                "🏗️ Software Engineering Craftsman",
+                "💡 UI/UX Design Innovator",
                 "🌱 Perpetual Learning Machine",
                 "🤝 Team Synergy Catalyst",
-                "💡 Innovation Conductor",
                 "🔮 Future-Tech Visionary",
                 "☕ Coffee-to-Code Transformer"
+            ],
+            
+            design_philosophy: [
+                "User needs drive every design decision",
+                "Form follows function, but beauty matters too",
+                "Accessibility is not optional, it's essential",
+                "Simple solutions to complex problems",
+                "Data-driven design with human empathy"
             ],
             
             coding_philosophy: [
@@ -350,6 +387,9 @@ class AwanthaOS_v4 {
             problem_solving: "🎯 LASER-FOCUSED", 
             learning_mode: "📚 ALWAYS_ON",
             collaboration: "🤝 MAXIMUM_SYNC",
+            software_architecture: "🏗️ ENTERPRISE_READY",
+            ui_ux_design: "🎨 PIXEL_PERFECT",
+            user_empathy: "❤️ MAXIMUM_COMPASSION",
             coffee_levels: "☕ OPTIMAL",
             fun_factor: "🎉 THROUGH_THE_ROOF"
         };
@@ -375,12 +415,15 @@ developer.startCodingReality();
 
 ### 🎪 **FUN FACTS ABOUT THIS DIGITAL WIZARD**
 - 🎮 Can solve Rubik's cube while debugging code
+- 🎨 Designs user interfaces in dreams (literally!)
 - 🎵 Codes better when listening to epic movie soundtracks  
 - 🍕 Pizza is the official debugging food
 - 🌙 Best ideas come at 2 AM (classic developer syndrome)
 - 🐱 Has more GitHub repos than most people have photos
 - ☕ Measured coffee intake in liters, not cups
 - 🎯 Can spot a missing semicolon from across the room
+- 🖼️ Judges websites by their loading animations
+- 🎭 Believes every button deserves a hover effect
 
 </details>
 
@@ -431,4 +474,33 @@ developer.startCodingReality();
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=footer&animation=twinkling&fontColor=fff&fontSize=16&text=Thanks%20for%20visiting%20my%20digital%20universe!&desc=May%20your%20code%20compile%
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=footer&animation=twinkling&fontColor=fff&fontSize=16&text=Thanks%20for%20visiting%20my%20digital%20universe!&desc=May%20your%20code%20compile%20and%20your%20coffee%20be%20strong"/>
+</div>
+
+<!-- Secret Developer Easter Egg Zone -->
+<!-- 
+🎮 KONAMI CODE SEQUENCE DETECTED! ↑↑↓↓←→←→BA
+🏆 Achievement Unlocked: "Source Code Detective"
+
+Hey there, fellow code archaeologist! 🕵️‍♀️
+If you're reading this hidden message, you're clearly someone who appreciates 
+the art of looking under the hood. That's exactly the kind of curiosity that 
+drives innovation!
+
+🌟 Secret Developer Wisdom:
+- Always comment your code like the person maintaining it is a violent psychopath who knows where you live
+- The best code is code that tells a story
+- Coffee is not just a beverage, it's a developer's life support system
+- Rubber duck debugging works, but explaining to your cat works even better
+
+Want to join forces and create something legendary? 
+My digital door is always open for fellow reality hackers! 🚀
+
+P.S. - If you made it this far, you deserve a virtual high-five! ✋
+-->
+
+<div align="center">
+  <sub>🎨 <i>Crafted with quantum entanglement, digital sorcery, and an unhealthy amount of caffeine</i> ☕✨</sub>
+  <br>
+  <sub>💝 <i>Made with ❤️ for the global developer community</i></sub>
+</div>
