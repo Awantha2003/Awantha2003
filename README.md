@@ -1,252 +1,317 @@
-```ascii
-╔═══════════════════════════════════════════════════════════════════════════════════════════════════╗
-║  ████████╗██╗  ██╗███████╗    ███████╗██╗   ██╗███████╗████████╗███████╗███╗   ███╗               ║
-║  ╚══██╔══╝██║  ██║██╔════╝    ██╔════╝╚██╗ ██╔╝██╔════╝╚══██╔══╝██╔════╝████╗ ████║               ║
-║     ██║   ███████║█████╗      ███████╗ ╚████╔╝ ███████╗   ██║   █████╗  ██╔████╔██║               ║
-║     ██║   ██╔══██║██╔══╝      ╚════██║  ╚██╔╝  ╚════██║   ██║   ██╔══╝  ██║╚██╔╝██║               ║
-║     ██║   ██║  ██║███████╗    ███████║   ██║   ███████║   ██║   ███████╗██║ ╚═╝ ██║               ║
-║     ╚═╝   ╚═╝  ╚═╝╚══════╝    ╚══════╝   ╚═╝   ╚══════╝   ╚═╝   ╚══════╝╚═╝     ╚═╝               ║
-║                                                                                                     ║
-║                         🏗️ AWANTHA IMESH - SYSTEM ARCHITECT 🏗️                                   ║
-║                     Designing Tomorrow's Software Infrastructure                                    ║
-╚═══════════════════════════════════════════════════════════════════════════════════════════════════╝
-```
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=600&size=24&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&multiline=true&width=800&height=120&lines=class+SoftwareEngineer+%7B;++constructor()+%7B+this.name+%3D+'Awantha+Imesh'+%7D;++deploy()+%7B+return+'Building+Scalable+Systems'+%7D;%7D" alt="Code Animation"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=200&section=header&text=AWANTHA%20IMESH&fontSize=50&fontColor=fff&animation=blinking&stroke=fff&strokeWidth=2"/>
 </div>
 
----
+<!-- Futuristic Terminal Header -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2000&pause=500&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=120&lines=👨‍💻+Creative+Full-Stack+Developer;⚡+Java+Expert+%7C+Problem+Solver;🦋+Mobile+App+Developer+%7C+Flutter+Specialist;🌐+Frontend+Architect+%7C+JavaScript+Ninja"/>
+</div>
 
-## 🔧 **SYSTEM ARCHITECTURE**
+<br>
 
-<table>
-<tr>
-<td valign="top" width="50%">
+<!-- Glassmorphism Profile Card -->
+<div align="center">
+  <img width="100%" src="https://svg-banners.vercel.app/api?type=glitch&text1=SOFTWARE%20ALCHEMIST&text2=Transmuting%20Ideas%20Into%20Digital%20Gold&width=800&height=150"/>
+</div>
 
-### 🖥️ **RUNTIME ENVIRONMENT**
-```yaml
-engineer:
-  name: "Awantha Imesh"
-  location: "Sri Lanka 🇱🇰"
-  role: "Software Engineer"
-  status: "Optimizing Performance"
+<!-- Animated Stats Dashboard -->
+<div align="center">
+  <h2>⚡ PERFORMANCE METRICS</h2>
   
-current_stack:
-  primary: "Java Ecosystem"
-  secondary: ["Frontend", "Mobile"]
-  learning: "Advanced Java Patterns"
-  
-architecture:
-  design_patterns: "Clean Architecture"
-  principles: ["SOLID", "DRY", "KISS"]
-  mindset: "Problem Solver"
-```
-
-### 📊 **PERFORMANCE METRICS**
-```javascript
-const metrics = {
-  problemsSolved: 500+,
-  coffeeCupsPerDay: 4,
-  debugging: "Expert Level",
-  codeQuality: "Production Ready",
-  collaboration: "Team Player"
-};
-```
-
-</td>
-<td valign="top" width="50%">
-
-### 🛠️ **TECHNOLOGY STACK**
-
-```python
-class TechStack:
-    def __init__(self):
-        self.languages = {
-            "primary": ["Java", "JavaScript"],
-            "system": ["C", "C++"],
-            "web": ["PHP", "HTML5", "CSS3"],
-            "proficiency": "Advanced"
-        }
-        
-        self.frameworks = {
-            "mobile": ["Flutter", "React Native"],
-            "backend": ["Spring Boot", "Node.js"],
-            "status": "Production Ready"
-        }
-        
-        self.databases = ["MySQL", "PostgreSQL"]
-        self.tools = ["Git", "Docker", "Jenkins"]
-        
-    def get_expertise_level(self):
-        return "Senior Developer"
-```
-
-### 🎯 **CURRENT OBJECTIVES**
-- 🔬 **R&D**: Advanced Java Design Patterns
-- 🤝 **Collaboration**: Open Source Java Projects
-- 📚 **Knowledge Sharing**: [Technical Blog](https://opencourseblog.blogspot.com/)
-- 🏗️ **Architecture**: Scalable System Design
-
-</td>
-</tr>
-</table>
-
----
-
-## 📈 **SYSTEM ANALYTICS**
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=awantha2003&show_icons=true&theme=github_dark_dimmed&hide_border=true&include_all_commits=true&count_private=true&custom_title=⚡+System+Performance+Metrics&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e&border_color=30363d" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=awantha2003&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=1f6feb&currStreakLabel=58a6ff&sideLabels=8b949e&currStreakNum=1f6feb&sideNums=1f6feb" height="180"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=awantha2003&layout=compact&theme=github_dark_dimmed&hide_border=true&custom_title=📊+Technology+Distribution&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&border_color=30363d&langs_count=8" height="200"/>
-</div>
-
----
-
-## 🏆 **ACHIEVEMENT REGISTRY**
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=awantha2003&theme=github_dark_dimmed&no-frame=true&no-bg=true&margin-w=10&row=2&column=4" width="100%"/>
-</div>
-
----
-
-## 📊 **CONTRIBUTION MATRIX**
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=awantha2003&custom_title=🔥+Development+Activity+Matrix&bg_color=0d1117&color=8b949e&line=58a6ff&point=1f6feb&area=true&hide_border=true&area_color=1f6feb" width="95%"/>
-</div>
-
----
-
-## 🌐 **NETWORK CONNECTIONS**
-
-<div align="center">
-  
-```mermaid
-graph LR
-    A[👨‍💻 Awantha] --> B[💼 LinkedIn]
-    A --> C[📺 YouTube]
-    A --> D[📧 Email]
-    A --> E[📝 Blog]
-    
-    B --> F[Professional Network]
-    C --> G[Tech Content]
-    D --> H[Direct Communication]
-    E --> I[Knowledge Sharing]
-    
-    style A fill:#1f6feb,stroke:#58a6ff,color:#fff
-    style B fill:#0077b5,stroke:#004182,color:#fff
-    style C fill:#ff0000,stroke:#cc0000,color:#fff
-    style D fill:#d14836,stroke:#a23428,color:#fff
-    style E fill:#ff5722,stroke:#cc441c,color:#fff
-```
-
-</div>
-
-<div align="center">
   <table>
     <tr>
-      <td>
-        <a href="https://linkedin.com/in/awantha-imesh-473077220/">
-          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-        </a>
+      <td align="center" width="25%">
+        <img src="https://img.shields.io/badge/500+-Problems%20Solved-6366F1?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0f0f23"/>
+        <br><sub>🧩 <b>Coding Challenges</b></sub>
       </td>
-      <td>
-        <a href="https://www.youtube.com/channel/UCQ39P9TV7mr745YW3vLNmXg">
-          <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-        </a>
+      <td align="center" width="25%">
+        <img src="https://img.shields.io/badge/50+-Projects%20Built-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=0f0f23"/>
+        <br><sub>🚀 <b>Portfolio Projects</b></sub>
       </td>
-      <td>
-        <a href="mailto:awanthaimesh123@gmail.com">
-          <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-        </a>
+      <td align="center" width="25%">
+        <img src="https://img.shields.io/badge/1000+-Coffee%20Cups-F59E0B?style=for-the-badge&logo=coffeescript&logoColor=white&labelColor=0f0f23"/>
+        <br><sub>☕ <b>Fuel Consumed</b></sub>
       </td>
-      <td>
-        <a href="https://opencourseblog.blogspot.com/">
-          <img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white"/>
-        </a>
+      <td align="center" width="25%">
+        <img src="https://img.shields.io/badge/∞-Curiosity%20Level-06D6A0?style=for-the-badge&logo=atom&logoColor=white&labelColor=0f0f23"/>
+        <br><sub>🔮 <b>Learning Mode</b></sub>
       </td>
     </tr>
   </table>
 </div>
 
----
+<br>
 
-## 🔬 **SYSTEM SPECIFICATIONS**
+<!-- 3D Tech Arsenal -->
+<div align="center">
+  <h2>🚀 TECH ARSENAL</h2>
+  
+  <table>
+    <tr>
+      <td align="center" width="12.5%">
+        <img src="https://skillicons.dev/icons?i=java&theme=dark" width="60"/>
+        <br><sub><b>Java ☕</b></sub>
+        <br><sub>⭐⭐⭐⭐⭐</sub>
+      </td>
+      <td align="center" width="12.5%">
+        <img src="https://skillicons.dev/icons?i=js&theme=dark" width="60"/>
+        <br><sub><b>JavaScript 🌐</b></sub>
+        <br><sub>⭐⭐⭐⭐⭐</sub>
+      </td>
+      <td align="center" width="12.5%">
+        <img src="https://skillicons.dev/icons?i=react&theme=dark" width="60"/>
+        <br><sub><b>React ⚛️</b></sub>
+        <br><sub>⭐⭐⭐⭐</sub>
+      </td>
+      <td align="center" width="12.5%">
+        <img src="https://skillicons.dev/icons?i=flutter&theme=dark" width="60"/>
+        <br><sub><b>Flutter 🦋</b></sub>
+        <br><sub>⭐⭐⭐⭐</sub>
+      </td>
+      <td align="center" width="12.5%">
+        <img src="https://skillicons.dev/icons?i=c&theme=dark" width="60"/>
+        <br><sub><b>C 🔧</b></sub>
+        <br><sub>⭐⭐⭐⭐</sub>
+      </td>
+      <td align="center" width="12.5%">
+        <img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="60"/>
+        <br><sub><b>C++ ⚙️</b></sub>
+        <br><sub>⭐⭐⭐⭐</sub>
+      </td>
+      <td align="center" width="12.5%">
+        <img src="https://skillicons.dev/icons?i=php&theme=dark" width="60"/>
+        <br><sub><b>PHP 🐘</b></sub>
+        <br><sub>⭐⭐⭐</sub>
+      </td>
+      <td align="center" width="12.5%">
+        <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="60"/>
+        <br><sub><b>MySQL 🗄️</b></sub>
+        <br><sub>⭐⭐⭐⭐</sub>
+      </td>
+    </tr>
+  </table>
+  
+  <br>
+  
+  <!-- Additional Tech Skills -->
+  <img src="https://skillicons.dev/icons?i=html,css,git,github,vscode,firebase,nodejs,express,mongodb,figma&theme=dark" />
+</div>
 
+<br>
+
+<!-- GitHub Stats with Glassmorphism Effect -->
+<div align="center">
+  <h2>📊 NEURAL ACTIVITY DASHBOARD</h2>
+  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=awantha2003&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0,0f0f23,1a1a3e&title_color=6366f1&icon_color=8b5cf6&text_color=f8fafc&ring_color=f59e0b&fire_color=06d6a0"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=awantha2003&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0,0f0f23,1a1a3e&title_color=6366f1&icon_color=8b5cf6&text_color=f8fafc&ring_color=f59e0b&fire_color=06d6a0" height="180"/>
+  </picture>
+  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=awantha2003&theme=tokyonight&hide_border=true&background=0f0f23,1a1a3e&stroke=6366f1&ring=8b5cf6&fire=f59e0b&currStreakLabel=f8fafc&sideLabels=6366f1&currStreakNum=8b5cf6&sideNums=f8fafc"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=awantha2003&theme=tokyonight&hide_border=true&background=0f0f23,1a1a3e&stroke=6366f1&ring=8b5cf6&fire=f59e0b&currStreakLabel=f8fafc&sideLabels=6366f1&currStreakNum=8b5cf6&sideNums=f8fafc" height="180"/>
+  </picture>
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=awantha2003&layout=donut&theme=tokyonight&hide_border=true&bg_color=0,0f0f23,1a1a3e&title_color=6366f1&text_color=f8fafc"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=awantha2003&layout=donut&theme=tokyonight&hide_border=true&bg_color=0,0f0f23,1a1a3e&title_color=6366f1&text_color=f8fafc" height="300"/>
+  </picture>
+</div>
+
+<br>
+
+<!-- Featured Projects Showcase -->
+<div align="center">
+  <h2>💡 FEATURED PROJECTS</h2>
+  
+  <table>
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=awantha2003&repo=e-commerce-platform&theme=tokyonight&hide_border=true&bg_color=0,0f0f23,1a1a3e&title_color=6366f1&text_color=f8fafc&icon_color=8b5cf6" />
+        <br>
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white"/>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white"/>
+      </td>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=awantha2003&repo=flutter-task-manager&theme=tokyonight&hide_border=true&bg_color=0,0f0f23,1a1a3e&title_color=6366f1&text_color=f8fafc&icon_color=8b5cf6" />
+        <br>
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=Firebase&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
+<!-- Activity Graph -->
+<div align="center">
+  <h2>⚡ CODING FREQUENCY WAVELENGTHS</h2>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=awantha2003&custom_title=Neural%20Activity%20Matrix&bg_color=0f0f23&color=6366f1&line=8b5cf6&point=f59e0b&area=true&hide_border=true&area_color=1a1a3e" width="100%"/>
+</div>
+
+<br>
+
+<!-- Achievement Trophies -->
+<div align="center">
+  <h2>🏆 DIGITAL ACHIEVEMENTS VAULT</h2>
+  <img src="https://github-profile-trophy.vercel.app/?username=awantha2003&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=2&column=6" width="100%"/>
+</div>
+
+<br>
+
+<!-- Communication Portals -->
+<div align="center">
+  <h2>🌐 CONNECT WITH ME</h2>
+  
+  <table>
+    <tr>
+      <td align="center" width="25%">
+        <a href="https://linkedin.com/in/awantha-imesh-473077220/">
+          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f0f23"/>
+        </a>
+        <br><sub>💼 <b>Professional Network</b></sub>
+      </td>
+      <td align="center" width="25%">
+        <a href="https://www.youtube.com/channel/UCQ39P9TV7mr745YW3vLNmXg">
+          <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0f0f23"/>
+        </a>
+        <br><sub>📺 <b>Tech Content</b></sub>
+      </td>
+      <td align="center" width="25%">
+        <a href="mailto:awanthaimesh123@gmail.com">
+          <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f0f23"/>
+        </a>
+        <br><sub>📧 <b>Direct Contact</b></sub>
+      </td>
+      <td align="center" width="25%">
+        <a href="https://opencourseblog.blogspot.com/">
+          <img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white&labelColor=0f0f23"/>
+        </a>
+        <br><sub>📝 <b>Tech Articles</b></sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
+<!-- Mission Control Expandable Section -->
 <details>
-<summary><b>🔍 Click to view detailed technical specifications</b></summary>
+<summary><h3>🎮 MISSION CONTROL CENTER [CLICK TO EXPAND]</h3></summary>
 
-### **Core Architecture**
-```
-├── 🖥️ Frontend Systems
-│   ├── React Native (Mobile-First)
-│   ├── Flutter (Cross-Platform)
-│   └── Vanilla JS (Performance Critical)
-│
-├── ⚙️ Backend Infrastructure  
-│   ├── Java (Enterprise Grade)
-│   ├── PHP (Web Services)
-│   └── Node.js (Microservices)
-│
-├── 🗄️ Data Layer
-│   ├── MySQL (Relational)
-│   ├── PostgreSQL (Advanced Features)
-│   └── Redis (Caching)
-│
-└── 🔧 DevOps Pipeline
-    ├── Git (Version Control)
-    ├── Docker (Containerization)
-    └── CI/CD (Automated Deployment)
-```
+```javascript
+class AwanthaOS {
+    constructor() {
+        this.version = "3.1.4";
+        this.mode = "CREATIVE_DESTROYER";
+        this.caffeine_level = "MAXIMUM";
+        this.inspiration = "∞";
+    }
 
-### **Development Philosophy**
-- **Clean Code**: Readable, maintainable, testable
-- **Agile Methodology**: Iterative development approach
-- **Test-Driven Development**: Quality assurance first
-- **Performance Optimization**: Scalable solutions
-- **Continuous Learning**: Staying updated with tech trends
+    getCurrentMissions() {
+        return {
+            🎯 primary_mission: {
+                name: "Java Universe Domination",
+                progress: "85%",
+                estimated_completion: "2024 Q4",
+                difficulty: "LEGENDARY"
+            },
+            🚀 secondary_mission: {
+                name: "Open Source Contribution Matrix",
+                target: "100+ repos",
+                current: 25,
+                impact: "GLOBAL"
+            },
+            🎨 creative_mission: {
+                name: "Digital Architecture Revolution",
+                scope: "Sri Lankan Tech Scene",
+                status: "IN_PROGRESS",
+                collaborators: "SEEKING"
+            }
+        };
+    }
+
+    getPersonalityCore() {
+        return [
+            "🧠 Problem Solver Extraordinaire",
+            "⚡ Performance Optimization Ninja", 
+            "🎨 Creative Code Sculptor",
+            "🌱 Continuous Learning Machine",
+            "🤝 Team Synergy Catalyst",
+            "💡 Innovation Catalyst"
+        ];
+    }
+
+    generateDailyMotivation() {
+        const quotes = [
+            "Code is poetry written in logic! 🎭",
+            "Every bug is a puzzle waiting to be solved! 🧩", 
+            "Coffee in, awesome code out! ☕➡️💻",
+            "Dream in code, build in reality! 🌟"
+        ];
+        return quotes[Math.floor(Math.random() * quotes.length)];
+    }
+}
+
+const developer = new AwanthaOS();
+console.log("🚀 System initialized successfully!");
+console.log("💭 Today's motivation:", developer.generateDailyMotivation());
+```
 
 </details>
 
----
+<br>
 
-## 📡 **SYSTEM STATUS**
-
+<!-- Animated Snake -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=awantha2003&label=System+Access+Count&color=1f6feb&style=for-the-badge"/>
-  <img src="https://img.shields.io/github/followers/awantha2003?label=Network+Connections&style=for-the-badge&color=58a6ff"/>
-  <img src="https://img.shields.io/badge/Status-Online-brightgreen?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Response_Time-24h-blue?style=for-the-badge"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/awantha2003/awantha2003/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/awantha2003/awantha2003/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/awantha2003/awantha2003/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
----
+<br>
 
+<!-- System Metrics -->
 <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=awantha2003&label=NEURAL%20CONNECTIONS&color=6366f1&style=for-the-badge&labelColor=0f0f23"/>
+  <img src="https://img.shields.io/github/followers/awantha2003?label=NETWORK%20NODES&style=for-the-badge&color=8b5cf6&labelColor=0f0f23"/>
+  <img src="https://img.shields.io/badge/STATUS-FULLY%20OPERATIONAL-06d6a0?style=for-the-badge&labelColor=0f0f23"/>
+</div>
 
-```
-╔══════════════════════════════════════════════════════════════════════════════════════════════════╗
-║                                                                                                    ║
-║    "First, solve the problem. Then, write the code." - John Johnson                               ║
-║                                                                                                    ║
-║    🚀 Building the future, one commit at a time                                                   ║
-║                                                                                                    ║
-╚══════════════════════════════════════════════════════════════════════════════════════════════════╝
-```
+<br>
 
+<!-- Inspirational Footer -->
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20invent%20it&author=Alan%20Kay"/>
 </div>
 
 <div align="center">
-  <img src="https://github.com/awantha2003/awantha2003/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <h3>✨ <em>Crafting digital experiences with passion and precision</em> ✨</h3>
+  <p>☕ Currently brewing the next big thing in software...</p>
+  <p>🚀 Want to join the adventure? Let's build something extraordinary together!</p>
 </div>
 
----
+<!-- Footer Wave -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=120&section=footer&animation=twinkling"/>
+</div>
+
+<!-- Hidden Easter Egg -->
+<!-- 
+🎮 KONAMI CODE ACTIVATED! 
+You found the secret developer zone! 
+If you're reading this, you're probably as curious as I am about how things work.
+Let's connect and build something amazing together! 
+-->
 
 <div align="center">
-  <sub>⚡ <strong>Powered by curiosity, driven by code, fueled by coffee</strong> ⚡</sub>
+  <sub>🎨 <i>Crafted with code, creativity, and excessive amounts of coffee</i> ☕</sub>
 </div>
