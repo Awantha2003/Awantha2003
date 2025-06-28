@@ -1,4 +1,4 @@
-# 🌌 AWANTHA IMESH - Digital Universe Architect
+# 🌌 AWANTHA IMESH 
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=AWANTHA%20IMESH&fontSize=80&fontColor=fff&animation=fadeIn&stroke=00d4ff&strokeWidth=3&desc=Quantum%20Code%20Alchemist%20%7C%20Reality%20Hacker&descAlign=50&descAlignY=75"/>
