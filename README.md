@@ -1,21 +1,10 @@
-# Hi 👋, I'm Awantha Imesh
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Awantha%20Imesh&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20UI/UX%20Designer&descAlignY=55&descAlign=50"/>
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=32&duration=2500&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&height=120&lines=💻+Software+Engineer;🎨+UI%2FUX+Designer;☕+Java+Developer;📱+Flutter+Specialist;🚀+Full+Stack+Developer;🌟+Problem+Solver;🔥+Code+Enthusiast" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
-
 <div align="center">
   
-  ![GitHub Followers](https://img.shields.io/github/followers/awantha2003?color=00d4ff&style=for-the-badge&label=FOLLOWERS&logo=github)
-  ![GitHub Stars](https://img.shields.io/github/stars/awantha2003?color=00d4ff&style=for-the-badge&label=STARS&logo=github)
+  # Hi 👋, I'm Awantha Imesh
+  
+  ## Full Stack Developer
+  
+  ![Profile views](https://komarev.com/ghpvc/?username=awantha2003&color=0e75b6&style=flat)
   
 </div>
 
