@@ -14,7 +14,6 @@
 
 <div align="center">
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=awantha2003&color=00d4ff&style=for-the-badge&label=PROFILE+VIEWS)
   ![GitHub Followers](https://img.shields.io/github/followers/awantha2003?color=00d4ff&style=for-the-badge&label=FOLLOWERS&logo=github)
   ![GitHub Stars](https://img.shields.io/github/stars/awantha2003?color=00d4ff&style=for-the-badge&label=STARS&logo=github)
   
@@ -210,14 +209,62 @@ Git/GitHub     █████████████████████�
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🐍 Contribution Snake Animation
+## 🎨 Creative Portfolio View
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/awantha2003/awantha2003/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/awantha2003/awantha2003/output/github-contribution-grid-snake.svg">
-    <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/awantha2003/awantha2003/output/github-contribution-grid-snake-dark.svg" width="100%">
-  </picture>
+  <table width="100%">
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+        <h3>🐍 Watch My Code Journey</h3>
+        <p><em>Every commit tells a story of growth and learning</em></p>
+      </td>
+      <td width="50%" align="center">
+        <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 15px;">
+          <h3>🚀 Innovation Mindset</h3>
+          <p><strong>"Code is poetry written in logic"</strong></p>
+          <br>
+          <div align="center">
+            <img src="https://img.shields.io/badge/Lines%20of%20Code-100K+-blueviolet?style=for-the-badge&logo=code&logoColor=white"/>
+            <br>
+            <img src="https://img.shields.io/badge/Projects%20Completed-50+-success?style=for-the-badge&logo=checkmark&logoColor=white"/>
+            <br>
+            <img src="https://img.shields.io/badge/Coffee%20Consumed-∞-brown?style=for-the-badge&logo=coffee&logoColor=white"/>
+          </div>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
+<div align="center">
+  <h3>💫 My Development Philosophy</h3>
+  <table>
+    <tr>
+      <td align="center" width="25%">
+        <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="60"><br>
+        <strong>Clean Code</strong><br>
+        <sub>Write code that tells a story</sub>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="60"><br>
+        <strong>User-Centric Design</strong><br>
+        <sub>Design with empathy and purpose</sub>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="60"><br>
+        <strong>Innovation</strong><br>
+        <sub>Push boundaries, explore possibilities</sub>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="60"><br>
+        <strong>Global Impact</strong><br>
+        <sub>Code that makes a difference</sub>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
