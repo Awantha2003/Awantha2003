@@ -20,8 +20,8 @@
 
 ### 🚀 About Me
 
-- 🌱 I'm currently learning **Advanced Java Architecture**
-- 🎓 I'm an **Undergraduate at Java Institute**
+- 🌱 I'm currently learning **Spring Boot**
+- 🎓 I'm an **Undergraduate at SLIIT**
 - 💬 Ask me about **Mobile App Development | UI/UX Design**
 - 📫 How to reach me **awanthaimesh123@gmail.com**
 - ⚡ Fun fact: **I turn coffee into code!**
