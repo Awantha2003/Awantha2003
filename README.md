@@ -2,7 +2,7 @@
   
   # Hi 👋, I'm Awantha Imesh
   
-  ## Full Stack Developer
+  ## <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;UI%2FUX+Engineer;Mobile+App+Developer;Java+Developer;React+Developer;Flutter+Developer;Spring+Boot+Developer;Innovation+Specialist" alt="Typing SVG" />
   
   ![Profile views](https://komarev.com/ghpvc/?username=awantha2003&color=0e75b6&style=flat)
   
