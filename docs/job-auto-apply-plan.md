@@ -110,7 +110,15 @@ Optional: export to Google Sheets so I can see everything on my phone.
 
 ## 4. Tech stack
 - **Python 3.11**, `playwright`, `requests`, `pdfplumber`, `pyyaml`, `sqlite3`
-- **Anthropic Claude API** for matching + writing (`anthropic` SDK)
+- **LLM for matching + writing** — behind one small `llm.py` wrapper so the provider can be
+  swapped with an env var (`LLM_PROVIDER=gemini|groq|openrouter|ollama|claude`):
+  - **Gemini** (Google AI Studio free tier) — recommended default for a free setup
+  - **Groq** free tier (open models like Llama) — very fast, good backup when Gemini hits limits
+  - **OpenRouter** `:free` models — many open models with one API key
+  - **Ollama** (local: Llama, Qwen, Gemma, Mistral) — fully free/offline, needs a decent PC
+  - **Claude** (paid) — best quality writing, if budget allows
+  - Note: free tiers have daily rate limits, and some (e.g. Gemini free) may use prompts for
+    training — CV data is personal, so check each provider's terms.
 - **Gmail API** (`google-api-python-client`) or `smtplib`
 - Scheduler: **GitHub Actions cron** (free) or `cron` on a Linux box
 - Alternative no-code option: **n8n** workflow (Schedule → HTTP/RSS → AI → Gmail) for the
